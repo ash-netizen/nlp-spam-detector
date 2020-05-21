@@ -10,3 +10,6 @@ scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
 nltk>=3.4.5
+docopt==0.6.2
+bob-builder==0.0.17
+boto==2.48.0
